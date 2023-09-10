@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1694356728 source:d:\codsoft\codsoft guessing game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<thread>
+	<chrono>
+
