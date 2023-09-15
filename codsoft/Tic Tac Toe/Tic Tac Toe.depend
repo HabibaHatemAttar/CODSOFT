@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694366767 source:d:\codsoft\tic tac toe\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+
